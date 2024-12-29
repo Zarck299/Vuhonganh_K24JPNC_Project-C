@@ -22,7 +22,7 @@ void displayStudents(Student students[], int count) {// Ham in ra danh sach sinh
 		printf("|==========|====================|========================|====================|============|");
 		printf("|    ID    |        Name        |          Email         |        Phone       |  NO.Course |");
 		printf("|==========|====================|========================|====================|============|");
-		printf("|1		   |Vu Hong Anh         |honganhzarck@gmail.com  |0976460744          |1           |");
+		printf("|1	   |Vu Hong Anh         |honganhzarck@gmail.com  |0976460744          |1           |");
 		printf("|==========|====================|========================|====================|============|");
 		printf("|2         |Bui Van Anh         |anhvanbui1105@gmail.com |0123456789          |2           |");
 		printf("|==========|====================|========================|====================|============|");
